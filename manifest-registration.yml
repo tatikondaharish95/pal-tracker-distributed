@@ -8,3 +8,4 @@ applications:
   env:
   services:
   - tracker-registration-database
+  - tracker-service-registry
